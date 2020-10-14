@@ -1,4 +1,4 @@
-baseurl: "/laconga-edu"
+baseurl: "/laconga-edu.github.io"
 exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
