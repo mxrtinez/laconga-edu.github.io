@@ -1,9 +1,11 @@
 ---
-title: "Accounting"
+title: "Matemáticas Avanzadas
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
 ---
+
+Matematicas Avanzadas para Modelado y Simulación.
 
 Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
 
