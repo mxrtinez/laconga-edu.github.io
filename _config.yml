@@ -1,27 +1,27 @@
 baseurl: '/laconga-edu.github.io/'
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'LA-CoNGA Edu'
 
 google_analytics_id: null
 homepage:
   show_call_box: true
 logo:
-  mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.svg"
+  mobile: "images/logo/logo-la.png"
+  desktop: "images/logo/logo-la.png"
   desktop_height: "36px"
 footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+  copyright_text: 'LA-CoNGA Organization. Theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>. Work under MIT License'
 
 seo:
-  meta_og_title: "Jekyll Serif Theme"
+  meta_og_title: "LA-CoNGA Edu"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif-theme.netlify.app"
+  meta_og_url: "http://laconga.redclara.net/"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_og_description: "LA-CoNGAphysics es una alianza integrada por 11 universidades en América Latina y Europa, con el fin de construir una plataforma virtual de aprendizaje en Física Avanzada en Colombia, Ecuador, Perú y Venezuela."
   meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_twitter_site: "@lacongaphysics"
+  meta_twitter_creator: "@lacongaphysics"
 
 collections:
   services:
